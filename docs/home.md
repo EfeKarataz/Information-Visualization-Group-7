@@ -1,8 +1,8 @@
 
 # Jupyter Book Tutorial
-sunny houdt van dingen in effe zetten
+sunny houdt van dingen in efe zetten
 (Last updated: May 27, 2025)
-
+x`
 Something test
 This page is written in markdown, which also serves as an example.
 All the content on this website is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
