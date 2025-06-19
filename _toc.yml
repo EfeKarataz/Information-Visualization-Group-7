@@ -2,6 +2,11 @@
 # Learn more at https://jupyterbook.org/customize/toc.html
 
 format: jb-book
-root: docs/home
+root: index
+
 chapters:
-- file: docs/notebook
+  - file: intro
+  - file: visualisatie-boxplot
+  - file: dataset-preprocessing
+  - file: docs/preprocess
+
