@@ -2,15 +2,11 @@
 # Learn more at https://jupyterbook.org/customize/toc.html
 
 format: jb-book
-root: docs/format
-chapters:
-  - file: docs/preprocess
-
-  format: jb-book
 root: index
 
 chapters:
   - file: intro
   - file: visualisatie-boxplot
   - file: dataset-preprocessing
+  - file: docs/preprocess
 
